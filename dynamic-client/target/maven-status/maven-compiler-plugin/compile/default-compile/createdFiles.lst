@@ -1,0 +1,16 @@
+com\example\grpcpoc\invoke\GrpcInvocationRequest.class
+com\example\grpcpoc\web\GrpcInvokeController.class
+com\example\grpcpoc\invoke\DynamicGrpcInvoker$2.class
+com\example\grpcpoc\invoke\GrpcInvocationResponse.class
+com\example\grpcpoc\web\DescriptorController.class
+com\example\grpcpoc\descriptor\DescriptorRegistry$DescriptorResolutionException.class
+com\example\grpcpoc\invoke\DynamicGrpcInvoker.class
+com\example\grpcpoc\descriptor\InMemoryDescriptorStore.class
+com\example\grpcpoc\channel\GrpcChannelPool.class
+com\example\grpcpoc\GrpcPocApplication.class
+com\example\grpcpoc\descriptor\DescriptorStore.class
+com\example\grpcpoc\exception\GlobalExceptionHandler$1.class
+com\example\grpcpoc\exception\GlobalExceptionHandler.class
+com\example\grpcpoc\descriptor\LocalDescriptorLoader.class
+com\example\grpcpoc\invoke\DynamicGrpcInvoker$1.class
+com\example\grpcpoc\descriptor\DescriptorRegistry.class

@@ -1,0 +1,12 @@
+C:\Users\Anurag\Downloads\grpc-dynamic-client-poc\grpc-dynamic-client-poc\dynamic-client\src\main\java\com\example\grpcpoc\channel\GrpcChannelPool.java
+C:\Users\Anurag\Downloads\grpc-dynamic-client-poc\grpc-dynamic-client-poc\dynamic-client\src\main\java\com\example\grpcpoc\descriptor\DescriptorRegistry.java
+C:\Users\Anurag\Downloads\grpc-dynamic-client-poc\grpc-dynamic-client-poc\dynamic-client\src\main\java\com\example\grpcpoc\descriptor\DescriptorStore.java
+C:\Users\Anurag\Downloads\grpc-dynamic-client-poc\grpc-dynamic-client-poc\dynamic-client\src\main\java\com\example\grpcpoc\descriptor\InMemoryDescriptorStore.java
+C:\Users\Anurag\Downloads\grpc-dynamic-client-poc\grpc-dynamic-client-poc\dynamic-client\src\main\java\com\example\grpcpoc\descriptor\LocalDescriptorLoader.java
+C:\Users\Anurag\Downloads\grpc-dynamic-client-poc\grpc-dynamic-client-poc\dynamic-client\src\main\java\com\example\grpcpoc\exception\GlobalExceptionHandler.java
+C:\Users\Anurag\Downloads\grpc-dynamic-client-poc\grpc-dynamic-client-poc\dynamic-client\src\main\java\com\example\grpcpoc\GrpcPocApplication.java
+C:\Users\Anurag\Downloads\grpc-dynamic-client-poc\grpc-dynamic-client-poc\dynamic-client\src\main\java\com\example\grpcpoc\invoke\DynamicGrpcInvoker.java
+C:\Users\Anurag\Downloads\grpc-dynamic-client-poc\grpc-dynamic-client-poc\dynamic-client\src\main\java\com\example\grpcpoc\invoke\GrpcInvocationRequest.java
+C:\Users\Anurag\Downloads\grpc-dynamic-client-poc\grpc-dynamic-client-poc\dynamic-client\src\main\java\com\example\grpcpoc\invoke\GrpcInvocationResponse.java
+C:\Users\Anurag\Downloads\grpc-dynamic-client-poc\grpc-dynamic-client-poc\dynamic-client\src\main\java\com\example\grpcpoc\web\DescriptorController.java
+C:\Users\Anurag\Downloads\grpc-dynamic-client-poc\grpc-dynamic-client-poc\dynamic-client\src\main\java\com\example\grpcpoc\web\GrpcInvokeController.java

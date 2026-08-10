@@ -1,0 +1,20 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: grpc-dynamic-client-poc
+  servlet:
+    multipart:
+      max-file-size: 5MB
+      max-request-size: 5MB
+
+grpc:
+  descriptor:
+    path: ${GRPC_DESCRIPTOR_PATH:}
+    service-id: ${GRPC_DESCRIPTOR_SERVICE_ID:}
+
+logging:
+  level:
+    com.example.grpcpoc: DEBUG
+    io.grpc: INFO
