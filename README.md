@@ -131,3 +131,4 @@ new backend — only the descriptor set changed. That's the point: register a ne
 - **No connection-level circuit breaking/retry policy** — worth wiring in gRPC's
   built-in retry config or a Resilience4j wrapper per target.
 "# grpc-dynamic-client-poc" 
+"# grpc-dynamic-client-poc" 
